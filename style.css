@@ -1,0 +1,40 @@
+body{
+    background-color: #cbf1f5;
+}
+h1{
+   color: #30e3ca;
+}
+h3{
+    color: #30e3ca; 
+ }
+ .foto{
+     border-radius: 100%;
+ }
+ .thead1{
+     background-color: turquoise;
+ }
+ .thead2{
+     background-color: aqua;
+ }
+ .thead3{
+     background-color: #00b8a9;
+ }
+ #garisutama{
+     border-color: white;
+     border-style: none;
+     border-top-style: double;
+     width: 20%;
+ }
+ hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 10px;
+ }
+ .sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+ }
+ #profil{
+     color: #11999e;
+ }
